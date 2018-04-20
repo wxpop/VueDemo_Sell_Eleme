@@ -18,7 +18,6 @@
     "iscroll": "^5.2.0",
     "moment": "^2.17.1",
     "stylus": "^0.54.5",
-    "v-tap": "^2.0.2",
     "vue": "^2.1.0",
     "vue-resource": "^1.0.3",
     "vue-router": "^2.1.1",
